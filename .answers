@@ -1,0 +1,15 @@
+TRUE
+FALSE
+/* This is a comment in CSS */
+p { color:red; }
+.redtext { color:red; }
+#media { color:red; }
+FALSE
+TRUE
+Selector
+Declaration
+Property
+Value
+#salsa li { color: red; }
+a:hover { color: red; }
+TRUE
