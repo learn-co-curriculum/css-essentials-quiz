@@ -1,6 +1,6 @@
 ---
-language: html, css
-tags: html5, semantic elements, forms, input, audio, video, media, css, style, syntax, selectors
+language: css
+tags: style, selectors, property, value, declaration
 type: quiz
 resources: 0
 ---
@@ -29,7 +29,7 @@ resources: 0
 ?: 4. Which is the correct (and most specific) CSS selector statement to select the text inside the HTML element and change the text color to red in the following example:
 
 ```html
-&lt;p&gt;Lorem Ipsum&lt;/p&gt;
+<p>Lorem Ipsum</p>;
 ```
 
 ( ) p &gt; { color:red }
@@ -40,11 +40,11 @@ resources: 0
 ?: 5. Which is the correct (and most specific) CSS selector statement to select the text inside the HTML element and change the text color to red in the following example:
 
 ```html
-&lt;ul&gt;
-   &lt;li class="redtext"&gt;Gravy&lt;/li&gt;
-   &lt;li&gt;Turkey&lt;/li&gt;
-   &lt;li&gt;Potato&lt;/li&gt;
-&lt;/ul&gt;
+<ul>
+   <li class="redtext">Gravy</li>
+   <li>Turkey</li>
+   <li>Potato</li>
+</ul>
 ```
 
 ( ) .redtext { color:red; }
@@ -55,9 +55,9 @@ resources: 0
 ?: 6. Which is the correct (and most specific) CSS selector statement to select the text inside the HTML element and change the text color to red in the following example:
 
 ```html
-&lt;div id="media"&gt;
+<div id="media">
    Lorem Ipsum Dolores.
-&lt;/div&gt;
+</div>
 ```
 
 ( ) .media { color:red; }
@@ -122,11 +122,11 @@ p { color:red; }
 ?: 13. In the following example, which is the correct (and most specific) CSS selector statement to select all of the descendent &lt;li&gt; inside of  &lt;ul id="salsa"&gt; and style their text color red (note: only style &lt;li&gt; inside &lt;ul id="salsa&gt;, NOT &lt;li&gt; elsewhere in the page):
 
 ```html
-&lt;ul id="salsa"&gt;
-   &lt;li&gt;Hot&lt;/li&gt;
-   &lt;li&gt;Medium&lt;/li&gt;
-   &lt;li&gt;Mild&lt;/li&gt;
-&lt;/ul&gt;
+<ul id="salsa">
+   <li>Hot</li>
+   <li>Medium</li>
+   <li>Mild</li>
+</ul>
 ```
 
 ( ) ul li { color: red; }
@@ -137,7 +137,7 @@ p { color:red; }
 ?: 14. Which is the correct (and most specific) CSS selector statement to select the text inside the HTML element and change the text color to red when the user hovers over it with their mouse:
 
 ```html
-&lt;a href="index.html"&gt;Home&lt;/a&gt;
+<a href="index.html">Home</a>
 ```
 
 ( ) #hover { color: red; }
