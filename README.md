@@ -11,18 +11,18 @@ resources: 0
 
 ?: 1. CSS stands for Cascading Style Sheet?
 
-( ) TRUE
+(X) TRUE
 ( ) FALSE
 
 ?: 2. It is impossible to validate CSS to check if it is correct?
 
 ( ) TRUE
-( ) FALSE
+(X) FALSE
 
 ?: 3. Which of the following code demonstrates an CSS comment?
 
 ( ) // This is a comment in CSS
-( ) /* This is a comment in CSS */
+(X) /* This is a comment in CSS */
 ( ) &lt;!-- This is a comment in CSS --&gt;
 ( ) # This is a CSS comment
 
@@ -34,7 +34,7 @@ resources: 0
 
 ( ) p &gt; { color:red }
 ( ) p { text-color:red; }
-( ) p { color:red; }
+(X) p { color:red; }
 ( ) None of the above.
 
 ?: 5. Which is the correct (and most specific) CSS selector statement to select the text inside the HTML element and change the text color to red in the following example:
@@ -47,7 +47,7 @@ resources: 0
 </ul>
 ```
 
-( ) .redtext { color:red; }
+(X) .redtext { color:red; }
 ( ) #redtext { color:red; }
 ( ) li &gt; redtext { color:red; }
 ( ) None of the above.
@@ -62,17 +62,17 @@ resources: 0
 
 ( ) .media { color:red; }
 ( ) div &gt; media { color:red; }
-( ) #media { color:red; }
+(X) #media { color:red; }
 ( ) None of the above.
 
 ?: 7. You can apply multiple CSS IDs to the same element.
 
 ( ) TRUE
-( ) FALSE
+(X) FALSE
 
 ?: 8. You can apply multiple CSS Classes to the same element.
 
-( ) TRUE
+(X) TRUE
 ( ) FALSE
 
 ?: 9. In the following example, list the CSS definition for the letter 'p':
@@ -81,7 +81,7 @@ resources: 0
 p { color:red; }
 ```
 
-( ) Selector
+(X) Selector
 ( ) Property
 ( ) Value
 ( ) Declaration
@@ -95,7 +95,7 @@ p { color:red; }
 ( ) Selector
 ( ) Property
 ( ) Value
-( ) Declaration
+(X) Declaration
 
 ?: 11. In the following example, list the CSS definition for the word 'color':
 
@@ -104,7 +104,7 @@ p { color:red; }
 ```
 
 ( ) Selector
-( ) Property
+(X) Property
 ( ) Value
 ( ) Declaration
 
@@ -116,7 +116,7 @@ p { color:red; }
 
 ( ) Selector
 ( ) Property
-( ) Value
+(X) Value
 ( ) Declaration
 
 ?: 13. In the following example, which is the correct (and most specific) CSS selector statement to select all of the descendent &lt;li&gt; inside of  &lt;ul id="salsa"&gt; and style their text color red (note: only style &lt;li&gt; inside &lt;ul id="salsa&gt;, NOT &lt;li&gt; elsewhere in the page):
@@ -130,7 +130,7 @@ p { color:red; }
 ```
 
 ( ) ul li { color: red; }
-( ) #salsa li { color: red; }
+(X) #salsa li { color: red; }
 ( ) li.salsa { color: red; }
 ( ) .salsa #li { color: red; }
 
@@ -142,12 +142,12 @@ p { color:red; }
 
 ( ) #hover { color: red; }
 ( ) a.hover { color: red; }
-( ) a:hover { color: red; }
+(X) a:hover { color: red; }
 ( ) None of the above.
 
 ?: 15. The Developer Tools can be used to see the given CSS styles applied to a specific element and can be used to preview style changes in the browser.
 
-( ) TRUE
+(X) TRUE
 ( ) FALSE
 
 ???
