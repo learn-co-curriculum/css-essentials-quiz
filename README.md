@@ -1,9 +1,4 @@
----
-language: css
-tags: style, selectors, property, value, declaration
-type: quiz
-resources: 0
----
+
 
 ???
 
