@@ -149,4 +149,4 @@ Note: only style `<li>` inside `<ul id="salsa">`, NOT `<li>` elsewhere in the pa
 
 ???
 
-<a href='https://learn.co/lessons/quiz-css-fundamentals' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/quiz-css-fundamentals' title='CSS Fundamentals'>CSS Fundamentals</a> on Learn.co and start learning to code for free.</p>
