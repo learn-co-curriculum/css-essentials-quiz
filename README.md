@@ -14,7 +14,7 @@
 ( ) TRUE
 (X) FALSE
 
-?: 3. Which of the following code demonstrates an CSS comment?
+?: 3. Which of the following code demonstrates a CSS comment?
 
 ( ) `// This is a comment in CSS`
 (X) `/* This is a comment in CSS */`
@@ -114,7 +114,7 @@ p { color:red; }
 (X) Value
 ( ) Declaration
 
-?: 13. In the following example, which is the correct (and most specific) CSS selector statement to select all of the descendent `<li>` inside of  `<ul id="salsa">` and style their text color red?
+?: 13. In the following example, which is the correct (and most specific) CSS selector statement to select all of the descendents `<li>` inside of  `<ul id="salsa">` and style their text color red?
 
 Note: only style `<li>` inside `<ul id="salsa">`, NOT `<li>` elsewhere in the page.
 
