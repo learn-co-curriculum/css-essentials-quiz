@@ -24,7 +24,7 @@
 ?: Which is the correct (and most specific) CSS selector statement to select the text inside the HTML element and change the text color to red in the following example:
 
 ```html
-<p>Lorem Ipsum</p>;
+<p>Lorem Ipsum</p>
 ```
 
 ( ) `p > { color:red }`
@@ -150,3 +150,5 @@ Note: only style `<li>` inside `<ul id="salsa">`, NOT `<li>` elsewhere in the pa
 ???
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/quiz-css-fundamentals' title='CSS Fundamentals'>CSS Fundamentals</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/quiz-css-fundamentals'>CSS Fundamentals Quiz</a> on Learn.co and start learning to code for free.</p>
