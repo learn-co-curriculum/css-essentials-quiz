@@ -2,8 +2,6 @@
 
 ???
 
-# Quiz - CSS Fundamentals
-
 ?: CSS stands for Cascading Style Sheet.
 
 (X) TRUE
@@ -32,7 +30,7 @@
 (X) `p { color:red; }`
 ( ) None of the above.
 
-?: Which is the correct (and most specific) CSS selector statement to select the text inside the HTML element and change the text color to red in the following example:
+?: Which is the correct (and most specific) CSS selector statement to change the text color of the first `<li>` element to red in the following example:
 
 ```html
 <ul>
