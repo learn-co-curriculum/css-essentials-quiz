@@ -27,9 +27,9 @@
 <p>Lorem Ipsum</p>
 ```
 
-( ) `p > { color:red }`
-( ) `p { text-color:red; }`
-(X) `p { color:red; }`
+( ) `p > { color: red }`
+( ) `p { text-color: red; }`
+(X) `p { color: red; }`
 ( ) None of the above.
 
 ?: Which is the correct (and most specific) CSS selector statement to change the text color of the first `<li>` element to red in the following example:
@@ -42,9 +42,9 @@
 </ul>
 ```
 
-(X) `.redtext { color:red; }`
-( ) `#redtext { color:red; }`
-( ) `li > redtext { color:red; }`
+(X) `.redtext { color: red; }`
+( ) `#redtext { color: red; }`
+( ) `li > redtext { color: red; }`
 ( ) None of the above.
 
 ?: Which is the correct (and most specific) CSS selector statement to select the text inside the HTML element and change the text color to red in the following example:
@@ -55,9 +55,9 @@
 </div>
 ```
 
-( ) `.media { color:red; }`
-( ) `div > media { color:red; }`
-(X) `#media { color:red; }`
+( ) `.media { color: red; }`
+( ) `div > media { color: red; }`
+(X) `#media { color: red; }`
 ( ) None of the above.
 
 ?: You can apply multiple CSS IDs to the same element.
@@ -70,10 +70,10 @@
 (X) TRUE
 ( ) FALSE
 
-?: In the following example, list the CSS definition for the letter `p`:
+?: In the following example, `p` is a:
 
 ```css
-p { color:red; }
+p { color: red; }
 ```
 
 (X) Selector
@@ -81,10 +81,10 @@ p { color:red; }
 ( ) Value
 ( ) Declaration
 
-?: In the following example, list the CSS definition for the statement `color:red;`:
+?: In the following example, `color: red;` is a:
 
 ```css
-p { color:red; }
+p { color: red; }
 ```
 
 ( ) Selector
@@ -92,10 +92,10 @@ p { color:red; }
 ( ) Value
 (X) Declaration
 
-?: In the following example, list the CSS definition for the word `color`:
+?: In the following example, `color` is a:
 
 ```css
-p { color:red; }
+p { color: red; }
 ```
 
 ( ) Selector
@@ -103,10 +103,10 @@ p { color:red; }
 ( ) Value
 ( ) Declaration
 
-?: In the following example, list the CSS definition for the word `red`:
+?: In the following example, `red` is a:
 
 ```css
-p { color:red; }
+p { color: red; }
 ```
 
 ( ) Selector
