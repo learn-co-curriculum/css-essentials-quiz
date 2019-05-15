@@ -1,8 +1,8 @@
-# CSS Fundamentals Quiz
+# CSS Essentials Quiz
 
 ???
 
-# CSS Fundamentals Quiz
+# CSS Essentials Quiz
 
 ?: CSS stands for Cascading Style Sheet.
 
@@ -148,5 +148,3 @@ Note: only style `<li>` inside `<ul id="salsa">`, NOT `<li>` elsewhere in the pa
 ( ) FALSE
 
 ???
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/quiz-css-fundamentals'>CSS Fundamentals Quiz</a> on Learn.co and start learning to code for free.</p>
