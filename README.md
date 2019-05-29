@@ -114,7 +114,7 @@ p { color: red; }
 (X) Value
 ( ) Declaration
 
-?: In the following example, which is the correct (and most specific) CSS selector statement to select all of the descendents `<li>` inside of  `<ul id="salsa">` and style their text color red?
+?: In the following example, which is the correct (and most specific) CSS selector statement to select all of the descendants `<li>` inside of  `<ul id="salsa">` and style their text color red?
 
 Note: only style `<li>` inside `<ul id="salsa">`, NOT `<li>` elsewhere in the page.
 
